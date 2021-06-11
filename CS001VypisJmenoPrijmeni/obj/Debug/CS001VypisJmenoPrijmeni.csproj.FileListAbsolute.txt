@@ -1,0 +1,6 @@
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS001VypisJmenoPrijmeni\CS001VypisJmenoPrijmeni\bin\Debug\CS001VypisJmenoPrijmeni.exe.config
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS001VypisJmenoPrijmeni\CS001VypisJmenoPrijmeni\bin\Debug\CS001VypisJmenoPrijmeni.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS001VypisJmenoPrijmeni\CS001VypisJmenoPrijmeni\bin\Debug\CS001VypisJmenoPrijmeni.pdb
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS001VypisJmenoPrijmeni\CS001VypisJmenoPrijmeni\obj\Debug\CS001VypisJmenoPrijmeni.csprojResolveAssemblyReference.cache
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS001VypisJmenoPrijmeni\CS001VypisJmenoPrijmeni\obj\Debug\CS001VypisJmenoPrijmeni.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS001VypisJmenoPrijmeni\CS001VypisJmenoPrijmeni\obj\Debug\CS001VypisJmenoPrijmeni.pdb
